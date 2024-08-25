@@ -25,4 +25,4 @@ This repository provides a solution for analyzing the similarity between signatu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/signature-image-similarity-analysis.git
+   git clone https://github.com/exon-dev/Signature-Image-Similarity-Analysis-Using-MobileNetV3Small.git
